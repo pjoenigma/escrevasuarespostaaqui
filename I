@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title> La trahison des images </title>
+    <body>
+      <div class="container">
+        <center>
+          <h1>I - La trahison des images</h1>
+        <img scr="file:///C:/Users/SOFIA/Desktop/sofia/pjo%20enigma/iamgens/cachimbo.jpg" border="0" usemap="#no">
+        <p class="page-subtitle">
+      αυτό δεν είναι στυλό
+    </p>
+          </center>
+        </body>
+      </html>
+    <!--
+Saudações, semideuses. Bem vindos
+-->
