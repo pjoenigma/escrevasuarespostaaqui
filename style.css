@@ -23,17 +23,4 @@ body {
   top: 10px;
   right: 10px;
 }
-input {
-  margin: 8px;
-  padding: 8px 8px;
-  border-radius: 6px;
-  border-style: none;
-}
-button {
-  margin-top: 25px;
-  padding: 10px 30px;
-  border-radius: 15px;
-  background: #A7C7E7;
-  font-size: 20;
-  font-family: "Inconsolata", monospace;
-}
+
